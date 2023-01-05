@@ -19,7 +19,7 @@
     "react-p5": "^1.0.5",
     "react-p5-wrapper": "^2.0.0",
     "react-sanfona": "^1.4.0",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "react-speed-dial": "^0.4.7"
   },
   "scripts": {
